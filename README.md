@@ -34,6 +34,13 @@ OpenMMLab team own the copyright of all these articles, videos and tutorial code
 | 第16讲 |                                          模型压缩与 MMRazor                                           |                                                                         In coming                                                                         |                                                                                                                                                            |                                                                                |
 | 第17讲 | [模型部署与 MMDeploy](https://www.bilibili.com/video/BV1Tx4y1F768) | [![Link](https://i0.hdslb.com/bfs/archive/3f9cc4f61e1a21afe24512664845a45c828c585f.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1Tx4y1F768) | [![Link](https://i0.hdslb.com/bfs/archive/e1293f6073852c47cfae86f78e25eb384ed2a67e.jpg@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1yX4y1X7jp) | [MMDeploy Tutorials](https://github.com/TommyZihao/MMDeploy_Tutorials) |
 
+## 技术前沿 | 社区开放麦
+
+|        |                                               讲座内容                                                |                                                                          讲座视频                                                                          |                                                           
+| :----: | :---------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | 
+| 第1讲  |          [社区开放麦#1｜基于关键点的动作识别](https://www.bilibili.com/video/BV1Yu411k7Be/?spm_id_from=333.999.0.0&vd_source=890cf2f1a179501ad9b6f301efd661f3)|[![Link](https://user-images.githubusercontent.com/79825482/233833325-50312b87-a930-4d55-b7f4-fa4da404b2dc.png@112w_63h_1c.webp)](https://www.bilibili.com/video/BV1Yu411k7Be/?spm_id_from=333.999.0.0&vd_source=890cf2f1a179501ad9b6f301efd661f3)  |                                                                                                                                                            |                                                                                |
+
+
 ## MMYOLO 系列视频
 
 MMYOLO 系列视频是 MMYOLO 开发者和社区小伙伴们一起录制和分享的教学视频，希望能对您学习和使用 MMYOLO 有一定帮助。
